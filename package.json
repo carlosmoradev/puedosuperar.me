@@ -1,0 +1,25 @@
+{
+  "name": "puedosuperar.me",
+  "version": "1.0.0",
+  "description": "puedosuperar.me ===============",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmmora/puedosuperar.me.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cmmora/puedosuperar.me/issues"
+  },
+  "homepage": "https://github.com/cmmora/puedosuperar.me#readme"
+}
