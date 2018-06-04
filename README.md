@@ -10,9 +10,10 @@ un referente de ayuda y conexiones para aquellos que lo necesiten.
 La idea del proyecto ha ido evolucionando y ahora se expandirá para todos aquellos
 que necesiten ayuda, basándome en los temas que actualmente captan mi interes.
 
-* Problemas de control de peso.
+
 * Perspectivas alternativas para la educacion
 * Superacion y desarrollo personal.
+* Problemas de control de peso.
 
 Este sitio concentrará todos los contenidos que pueda compartir para los temas
 que acabo de citar.
