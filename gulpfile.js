@@ -7,7 +7,7 @@ gulp.task('default', ['sass', 'minifyHtml']); //Desde aqui llamo a todas las tar
 gulp.task('sass', function(){
     return gulp.src('scss/main.scss')
         .pipe(sass())
-        .pipe(gulp.dest('app/css'));
+        .pipe(gulp.dest('app/css')); //sass compila el css para usarlo en el scss
 });
 
 gulp.task('minifyHtml', function(){
